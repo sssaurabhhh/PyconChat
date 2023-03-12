@@ -8,6 +8,7 @@ Python 3
 
 
 Instructions (Client)
+
 Open a terminal window in the directory containing client.py and run the following command:
 python client.py localhost 8000
 
@@ -30,6 +31,7 @@ Command	Behaviour
 
 
 Instructions (Server)
+
 Open a terminal window in the directory containing server.py and run the following command:
 python server.py localhost 8000
 
