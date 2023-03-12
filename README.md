@@ -23,15 +23,6 @@ Command   Behaviour
 /2        Approve pending join requests**
 /3        Disconnect
 /4        View all group members
-/5
-/6
-/7
-/8
-/9
-/1      	
-/2	      
-/3	      
-/4	      
 /5	      View online group members
 /6      	Transfer adminship**
 /7	      View group admin
